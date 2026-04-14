@@ -35,3 +35,4 @@ jobs:
       with:
         name: beeper-debug-apk
         path: app/build/outputs/apk/debug/*.apk
+        # updated - force refresh
